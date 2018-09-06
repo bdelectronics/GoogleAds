@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Adwords_test:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17bd931a-e94b-416e-b640-24930db5cd63" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2011366714">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="config" value="1" />
+          <entry key="dependencies" value="1" />
+          <entry key="form" value="4" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="92" />
+          <entry key="properties" value="12" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="GUI_DESIGNER_FORM" value="4" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="92" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="12" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="config" value="3" />
+          <entry key="dummy" value="14" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="7817" />
+          <entry key="properties" value="184" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="7817" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="Properties" value="184" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="529">
+              <caret line="148" column="108" selection-start-line="148" selection-start-column="108" selection-end-line="148" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/ads.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>deve</find>
+      <find>refr</find>
+      <find>applica</find>
+      <find>client</find>
+      <find>CampaignPage</find>
+      <find>INSERT_CAMPAIGN_ID_HERE</find>
+      <find>insert</find>
+      <find>deff</find>
+      <find>from</find>
+      <find>NUMBER_OF_ADS</find>
+      <find>inser</find>
+      <find>Syste</find>
+      <find>file</find>
+      <find>cross_field</find>
+      <find>Tracking_template</find>
+      <find>main_campaign_id</find>
+      <find>Request</find>
+      <find>adgroup_name</find>
+      <find>system</find>
+      <find>newline</find>
+      <find>log</find>
+      <find>files_lst</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Tracking_url_template</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gui/Ad_Home1.java" />
+        <option value="$PROJECT_DIR$/src/gui/Ad_Home.form" />
+        <option value="$PROJECT_DIR$/src/config/config" />
+        <option value="$PROJECT_DIR$/src/config/config.xml" />
+        <option value="$PROJECT_DIR$/src/config/ads.properties" />
+        <option value="$PROJECT_DIR$/Adwords_test.iml" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201802/publisherquerylanguageservice/GetAllProgrammaticBuyers.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/misc/UploadImage.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/accountmanagement/AcceptServiceLink.java" />
+        <option value="$PROJECT_DIR$/src/Basic_Usage.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/Basic_Usage.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddPrices.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddGoogleMyBusinessLocationExtensions.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddSiteLinks.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddSiteLinksUsingFeeds.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddGoogleMyBusinessLocationExtensions.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddPrices.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddSiteLinks.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddSiteLinksUsingFeeds.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/GetRefreshToken.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/GetRefreshTokenWithoutPropertiesFile.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/v201806/accountmanagement/CreateAccount.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/GetRefreshToken.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Basic_Usage.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/getAdgroups.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/getkeywords.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/remove_keyword.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/remove_add.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/remove_add_group.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Add_ads.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Add_keywords.java" />
+        <option value="$PROJECT_DIR$/src/gui/Ad_Home.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java" />
+        <option value="$PROJECT_DIR$/resources/ads.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="24" />
+    <option name="y" value="-8" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Adwords_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adwords_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adwords_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adwords_test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adwords_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adwords_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adwords_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adwords_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Adwords_test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Adwords_test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="org.slf4j.impl&#9;PSI&#9;JAVA://org.slf4j.LoggerFactory#messageContainsOrgSlf4jImplStaticLoggerBinder" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536162708277" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../google api/javax.mail-1.4.5.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="gui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ademola.A\Downloads\Adwords_test\src\admanager\axis" />
+      <recent name="C:\Users\Ademola.A\Downloads\Adwords_test\assembly" />
+      <recent name="C:\Users\Ademola.A\Downloads\Adwords_test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="admanager.axis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ademola.A\Downloads\Adwords_test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ad_Home">
+    <configuration name="Ad_Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Ad_Home" />
+      <module name="Adwords_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Add_keywords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="admanager.axis.auth.Add_keywords" />
+      <module name="Adwords_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admanager.axis.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetRefreshToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="admanager.axis.auth.GetRefreshToken" />
+      <module name="Adwords_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admanager.axis.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_campaigns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="admanager.axis.auth.Get_campaigns" />
+      <module name="Adwords_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admanager.axis.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_class" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="admanager.axis.auth.Main_class" />
+      <module name="Adwords_test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admanager.axis.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Get_campaigns" />
+      <item itemvalue="Application.Ad_Home" />
+      <item itemvalue="Application.Main_class" />
+      <item itemvalue="Application.Add_keywords" />
+      <item itemvalue="Application.GetRefreshToken" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ad_Home" />
+        <item itemvalue="Application.Main_class" />
+        <item itemvalue="Application.GetRefreshToken" />
+        <item itemvalue="Application.Add_keywords" />
+        <item itemvalue="Application.Get_campaigns" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17bd931a-e94b-416e-b640-24930db5cd63" name="Default Changelist" comment="" />
+      <created>1535707441908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535707441908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26599148" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32952183" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/userteamassociationservice/GetUserTeamAssociationsForUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/publisherquerylanguageservice/GetAllProgrammaticBuyers.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/misc/UploadImage.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201805/audiencesegmentservice/GetAllAudienceSegments.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/misc/GetAllImagesAndVideos.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201805/activitygroupservice/CreateActivityGroups.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201805/activityservice/CreateActivities.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/accountmanagement/AcceptServiceLink.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/accountmanagement/AcceptServiceLink.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddPrices.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddGoogleMyBusinessLocationExtensions.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddSiteLinks.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201802/extensions/AddSiteLinksUsingFeeds.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddGoogleMyBusinessLocationExtensions.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddPrices.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddSiteLinks.java" />
+    <entry file="file://$PROJECT_DIR$/Adwords_test.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembly/dependencies.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assembly/README.dependencies">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../google api/google api admanager/ads-lib-4.0.0.jar!/com/google/api/ads/common/lib/auth/GoogleClientSecretsBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="39" column="110" selection-start-line="39" selection-start-column="110" selection-end-line="39" selection-end-column="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/basicoperations/AddCampaigns.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/shoppingcampaigns/AddShoppingCampaign.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/campaignmanagement/AddKeywordsUsingIncrementalBatchJob.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/campaignmanagement/SetBidModifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/remarketing/AddConversionTrackers.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/advancedoperations/AddHtml5Ad.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/misc/UploadMediaBundle.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/basicoperations/GetCampaignsWithAwql.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/accountmanagement/CreateAccount.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/v201806/extensions/AddSiteLinksUsingFeeds.java" />
+    <entry file="jar://$PROJECT_DIR$/../google api/google api libararies/slf4j-api-1.7.7.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../google api/google api admanager/slf4j-api-1.7.7.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../google api/adwords-axis-3.16.0.jar!/com/google/api/ads/adwords/axis/v201806/cm/CampaignPage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/remove_keyword.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/getkeywords.java" />
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/remove_add.java" />
+    <entry file="jar://$PROJECT_DIR$/../google api/google api admanager/ads-lib-4.0.0.jar!/com/google/api/ads/adwords/lib/utils/examples/ArgumentNames.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../google api/adwords-axis-3.16.0.jar!/com/google/api/ads/adwords/axis/v201806/cm/Money.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/GetRefreshToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/remove_add_group.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1447">
+          <caret line="93" column="36" selection-start-line="93" selection-start-column="36" selection-end-line="93" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/GetRefreshTokenWithoutPropertiesFile.java" />
+    <entry file="file://$PROJECT_DIR$/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Ad_Home.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Add_keywords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/getAdgroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="36" column="113" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="113" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Add_ads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/Ad_Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="91" column="26" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="148" column="108" selection-start-line="148" selection-start-column="108" selection-end-line="148" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="79" column="48" selection-start-line="79" selection-start-column="48" selection-end-line="79" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ads.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Adwords_test:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Adwords_test</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
