@@ -10,33 +10,33 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../google api/google api admanager" />
+          <root url="file://$MODULE_DIR$/lib/google api admanager" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../google api/google api admanager" />
+          <root url="file://$MODULE_DIR$/lib/google api admanager" />
         </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../google api/google api admanager" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../google api/google api admanager" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/google api admanager" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/google api admanager" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../google api/google api libararies" />
+          <root url="file://$MODULE_DIR$/lib/google api libararies" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../google api/google api libararies" />
+          <root url="file://$MODULE_DIR$/lib/google api libararies" />
         </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../google api/google api libararies" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../google api/google api libararies" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/google api libararies" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/lib/google api libararies" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../google api/adwords-axis-3.16.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/adwords-axis-3.16.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -45,7 +45,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../google api/javax.mail-1.4.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/lib/javax.mail-1.4.5.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

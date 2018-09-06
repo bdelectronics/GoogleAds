@@ -27,7 +27,7 @@ public class getAdgroups {
         private Long campaignId;
     }
 
-    public static void main(String[] args) {
+    public static void main_get_adgroups(String[] args) {
         AdWordsSession session;
         try {
             // Generate a refreshable OAuth2 credential.

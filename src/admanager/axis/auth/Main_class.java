@@ -89,10 +89,6 @@ public class Main_class{
                 else{
                     result[i-1] = "Content already exist in the database";
                 }
-                if(i == 70){
-                    break;
-                }
-
             }
 //            JOptionPane.showMessageDialog(null, "Step 1.3");
             bufferedReader.close();

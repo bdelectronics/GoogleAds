@@ -101,7 +101,7 @@ public class GetRefreshToken {
     return credential;
   }
 
-  public static void main(String[] args) {
+  public static void main_refresh_token(String[] args) {
     // Get the client ID and secret from the ads.properties file.
     // If you do not have a client ID or secret, please create one in the
     // API console: https://console.developers.google.com/project and set it
