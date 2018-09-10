@@ -82,7 +82,7 @@ public class create_addgroups {
 
         // Create ad group.
         AdGroup adGroup = new AdGroup();
-        adGroup.setName(adgroup_name + System.currentTimeMillis());
+        adGroup.setName(adgroup_name);
         adGroup.setStatus(AdGroupStatus.ENABLED);
         adGroup.setCampaignId(campaignId);
 
