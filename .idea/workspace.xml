@@ -18,14 +18,15 @@
     <session id="-2011366714">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -35,7 +36,7 @@
           <entry key="dependencies" value="1" />
           <entry key="form" value="4" />
           <entry key="iml" value="2" />
-          <entry key="java" value="98" />
+          <entry key="java" value="99" />
           <entry key="properties" value="12" />
           <entry key="xml" value="2" />
         </counts>
@@ -45,7 +46,7 @@
           <entry key="CLASS" value="6" />
           <entry key="GUI_DESIGNER_FORM" value="4" />
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="98" />
+          <entry key="JAVA" value="99" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="12" />
           <entry key="XML" value="2" />
@@ -56,7 +57,7 @@
           <entry key="config" value="3" />
           <entry key="dummy" value="14" />
           <entry key="iml" value="1" />
-          <entry key="java" value="7849" />
+          <entry key="java" value="8120" />
           <entry key="properties" value="196" />
           <entry key="xml" value="1" />
         </counts>
@@ -64,7 +65,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="7849" />
+          <entry key="JAVA" value="8120" />
           <entry key="PLAIN_TEXT" value="17" />
           <entry key="Properties" value="196" />
           <entry key="XML" value="1" />
@@ -75,46 +76,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="84" column="65" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="65" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Add_ads.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="853">
-              <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="628">
-              <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+            <state relative-caret-position="1802">
+              <caret line="109" column="101" lean-forward="true" selection-start-line="109" selection-start-column="101" selection-end-line="109" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/gui/Ad_Home.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
@@ -122,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="137" column="30" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
+            <state relative-caret-position="1154">
+              <caret line="101" column="86" selection-start-line="101" selection-start-column="86" selection-end-line="101" selection-end-column="86" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -132,46 +100,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Add_keywords.java">
+        <entry file="file://$PROJECT_DIR$/src/gui/Ad_Home.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="267">
+              <caret line="99" column="111" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="111" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/getAdgroups.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/GetRefreshToken.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="101" column="3" lean-forward="true" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/ads.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <state relative-caret-position="85">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="10" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -211,6 +152,9 @@
       <find>log</find>
       <find>files_lst</find>
       <find>System.currentTimeMillis()</find>
+      <find>PCI-T32-X2-U6</find>
+      <find>DIVIDE-PM-UT</find>
+      <find>buffered</find>
     </findStrings>
     <replaceStrings>
       <replace>Tracking_url_template</replace>
@@ -245,20 +189,20 @@
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/getkeywords.java" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/remove_keyword.java" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/remove_add.java" />
-        <option value="$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/remove_add_group.java" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/Add_ads.java" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/Add_keywords.java" />
-        <option value="$PROJECT_DIR$/src/gui/Ad_Home.java" />
-        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java" />
-        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java" />
-        <option value="$PROJECT_DIR$/resources/ads.properties" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/getAdgroups.java" />
         <option value="$PROJECT_DIR$/src/admanager/axis/auth/GetRefreshToken.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java" />
+        <option value="$PROJECT_DIR$/src/gui/Ad_Home.java" />
+        <option value="$PROJECT_DIR$/resources/ads.properties" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java" />
+        <option value="$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="24" />
     <option name="y" value="-8" />
     <option name="width" value="1440" />
@@ -269,6 +213,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -298,25 +243,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="gui" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Adwords_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Adwords_test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="gui" type="462c0819:PsiDirectoryNode" />
-              <item name="Ad_Home" type="e9f4de52:FormNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="org.slf4j.impl&#9;PSI&#9;JAVA://org.slf4j.LoggerFactory#messageContainsOrgSlf4jImplStaticLoggerBinder" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536223543194" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536587967120" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/javax.mail-1.4.5.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
@@ -448,9 +385,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -459,7 +397,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32952183" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952183" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -591,26 +529,9 @@
     <entry file="file://$PROJECT_DIR$/src/gui/Ad_Home.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/ads.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="84" column="65" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Add_ads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
+        <state relative-caret-position="88">
           <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -618,10 +539,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java">
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/create_addgroups.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="137" column="30" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
+        <state relative-caret-position="181">
+          <caret line="84" column="36" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -630,7 +551,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Add_keywords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="336">
           <caret line="94" column="63" selection-start-line="94" selection-start-column="63" selection-end-line="94" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -650,18 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/GetRefreshToken.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="101" column="3" lean-forward="true" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="628">
-          <caret line="90" column="17" selection-start-line="90" selection-start-column="17" selection-end-line="90" selection-end-column="17" />
+        <state relative-caret-position="98">
+          <caret line="101" column="3" selection-start-line="101" selection-start-column="3" selection-end-line="101" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -670,8 +581,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gui/Ad_Home.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="267">
+          <caret line="99" column="111" selection-start-line="99" selection-start-column="32" selection-end-line="99" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Get_campaigns.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1154">
+          <caret line="101" column="86" selection-start-line="101" selection-start-column="86" selection-end-line="101" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/admanager/axis/auth/Main_class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="109" column="101" lean-forward="true" selection-start-line="109" selection-start-column="101" selection-end-line="109" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/ads.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="10" selection-end-column="31" />
         </state>
       </provider>
     </entry>

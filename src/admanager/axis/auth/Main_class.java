@@ -36,10 +36,10 @@ public class Main_class{
                     result[0] = "There is something wrong with your file";
                 }
             }
-
+            bufferedReader.close();
             String[][] new_list = {} ;
             int counter = 0;
-            Boolean d = false;
+            boolean d = false;
             for(int i = 0; i<files_lst.length; i++){
                 for(int z = 0; z<files_lst[i].length; z++){
                     if(files_lst[i][z] == null){
@@ -84,32 +84,67 @@ public class Main_class{
                         new_list[i][13] = String.valueOf(in_or_out);
                         result[i-1] = "There were some errors errors";
                     }
+                    try{
+                        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file+"done", true));
+                        for(int x=0; x<new_list[i].length; x++){
+                            if(x==new_list[i].length-1){
+                                bufferedWriter.write(new_list[i][x]);
+                            }
+                            else{
+                                bufferedWriter.write(new_list[i][x]+";");
+                            }
+                        }
+                        bufferedWriter.newLine();
+                        bufferedWriter.flush();
+                        bufferedWriter.close();
+                    }
+                    catch(IOException e){
+                        e.printStackTrace();
+                    }
+
                 }
 
                 else{
                     result[i-1] = "Content already exist in the database";
+                    try{
+                        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file+"done", true));
+                        for(int x=0; x<new_list[i].length; x++){
+                            if(x==new_list[i].length-1){
+                                bufferedWriter.write(new_list[i][x]);
+                            }
+                            else{
+                                bufferedWriter.write(new_list[i][x]+";");
+                            }
+                        }
+                        bufferedWriter.newLine();
+                        bufferedWriter.flush();
+                        bufferedWriter.close();
+                    }
+                    catch(IOException e){
+                        e.printStackTrace();
+                    }
                 }
             }
 //            JOptionPane.showMessageDialog(null, "Step 1.3");
-            bufferedReader.close();
-            try {
-                BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file));
-                for(int x=0; x<new_list.length; x++){
-                    for(int i=0; i<new_list[x].length; i++){
-                        if(i==new_list[x].length-1){
-                            bufferedWriter.write(new_list[x][i]);
-                        }
-                        else{
-                            bufferedWriter.write(new_list[x][i]+";");
-                        }
-                    }
-                    bufferedWriter.newLine();
-                }
-                bufferedWriter.flush();
-                bufferedWriter.close();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
+
+//            try {
+//                BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(file, true));
+//                for(int x=0; x<new_list.length; x++){
+//                    for(int i=0; i<new_list[x].length; i++){
+//                        if(i==new_list[x].length-1){
+//                            bufferedWriter.write(new_list[x][i]);
+//                        }
+//                        else{
+//                            bufferedWriter.write(new_list[x][i]+";");
+//                        }
+//                    }
+//                    bufferedWriter.newLine();
+//                }
+//                bufferedWriter.flush();
+//                bufferedWriter.close();
+//            } catch (IOException e) {
+//                e.printStackTrace();
+//            }
         }
         catch (IOException e) {
             System.out.println(e.getMessage());

@@ -18,13 +18,7 @@ import static com.google.api.ads.common.lib.utils.Builder.DEFAULT_CONFIGURATION_
 
 import com.google.api.ads.adwords.axis.factory.AdWordsServices;
 import com.google.api.ads.adwords.axis.utils.v201806.SelectorBuilder;
-import com.google.api.ads.adwords.axis.v201806.cm.ApiError;
-import com.google.api.ads.adwords.axis.v201806.cm.ApiException;
-import com.google.api.ads.adwords.axis.v201806.cm.Campaign;
-import com.google.api.ads.adwords.axis.v201806.cm.Budget;
-import com.google.api.ads.adwords.axis.v201806.cm.CampaignPage;
-import com.google.api.ads.adwords.axis.v201806.cm.CampaignServiceInterface;
-import com.google.api.ads.adwords.axis.v201806.cm.Selector;
+import com.google.api.ads.adwords.axis.v201806.cm.*;
 import com.google.api.ads.adwords.lib.client.AdWordsSession;
 import com.google.api.ads.adwords.lib.factory.AdWordsServicesInterface;
 import com.google.api.ads.adwords.lib.selectorfields.v201806.cm.CampaignField;
@@ -35,6 +29,7 @@ import com.google.api.ads.common.lib.exception.OAuthException;
 import com.google.api.ads.common.lib.exception.ValidationException;
 import com.google.api.client.auth.oauth2.Credential;
 
+import javax.swing.*;
 import java.io.File;
 import java.nio.file.Paths;
 import java.rmi.RemoteException;
@@ -103,6 +98,10 @@ public class Get_campaigns {
                 int i = 0;
                 for (ApiError apiError : apiException.getErrors()) {
                     System.err.printf("  Error %d: %s%n", i++, apiError);
+                    if(apiError.getApiErrorType().equals("RateExceededError")){
+                        JOptionPane.showMessageDialog(null, "Rate Exceeded for the day");
+                        System.exit(0);
+                    }
                 }
             }
         } catch (RemoteException re) {
