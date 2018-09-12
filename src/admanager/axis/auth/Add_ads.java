@@ -1,15 +1,7 @@
 package admanager.axis.auth;
 
 import com.beust.jcommander.Parameter;
-import com.google.api.ads.adwords.axis.v201806.cm.AdGroupAd;
-import com.google.api.ads.adwords.axis.v201806.cm.AdGroupAdOperation;
-import com.google.api.ads.adwords.axis.v201806.cm.AdGroupAdReturnValue;
-import com.google.api.ads.adwords.axis.v201806.cm.AdGroupAdServiceInterface;
-import com.google.api.ads.adwords.axis.v201806.cm.AdGroupAdStatus;
-import com.google.api.ads.adwords.axis.v201806.cm.ApiError;
-import com.google.api.ads.adwords.axis.v201806.cm.ApiException;
-import com.google.api.ads.adwords.axis.v201806.cm.ExpandedTextAd;
-import com.google.api.ads.adwords.axis.v201806.cm.Operator;
+import com.google.api.ads.adwords.axis.v201806.cm.*;
 import com.google.api.ads.adwords.lib.client.AdWordsSession;
 import com.google.api.ads.adwords.lib.factory.AdWordsServicesInterface;
 import com.google.api.ads.adwords.lib.utils.examples.ArgumentNames;
@@ -68,6 +60,7 @@ public class Add_ads {
                 int i = 0;
                 for (ApiError apiError : apiException.getErrors()) {
                     System.err.printf("  Error %d: %s%n", i++, apiError);
+                    Main_class.setApi_error(apiError);
                 }
             }
         } catch (RemoteException re) {

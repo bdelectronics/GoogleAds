@@ -55,6 +55,7 @@ public class Add_keywords {
                 int i = 0;
                 for (ApiError apiError : apiException.getErrors()) {
                     System.err.printf("  Error %d: %s%n", i++, apiError);
+                    Main_class.setApi_error(apiError);
                 }
             }
             Main_class.error += 1;

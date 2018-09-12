@@ -56,6 +56,7 @@ public class create_addgroups {
                 int i = 0;
                 for (ApiError apiError : apiException.getErrors()) {
                     System.err.printf("  Error %d: %s%n", i++, apiError);
+                    Main_class.setApi_error(apiError);
                 }
             }
         } catch (RemoteException re) {
